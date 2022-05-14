@@ -1,6 +1,6 @@
 
 function productSign(n, m) {
-  // corps de la fonction ici
+  // corps de la fonction
 	if (n * m > 0){
 		return 1;
 	}

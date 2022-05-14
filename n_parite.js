@@ -1,5 +1,5 @@
 function nParite(n, parite) {
-  // corps de la fonction ici
+  // corps de la fonction
 	
 	let sum = 0;
 	if(parite > 0){
